@@ -1,0 +1,2 @@
+class MessageProcessingException(Exception):
+    pass
